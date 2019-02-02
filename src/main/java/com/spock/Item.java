@@ -1,1 +1,4 @@
-package com.spock;public class Item {}
+package com.spock;
+
+public class Item {
+}
