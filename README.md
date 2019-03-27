@@ -3,7 +3,6 @@ This repo has detail how we create mock object while writing unit test for java 
 
 Open your terminal and run 
 git clone git@github.com:pravanjan/spockmockingforjava.git 
-
-then cd to spockmockingforjava 
-
+after downlod compelete
+cd  spockmockingforjava 
 gradle test
