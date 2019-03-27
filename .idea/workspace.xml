@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="130d16bb-2fe2-45d6-a7dc-8d17110a477c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
+    <list default="true" id="8ba4340d-8dc8-40e4-adb0-b48a3acf36f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spock/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spock/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/spock/CheckoutSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/com/spock/CheckoutSpec.groovy" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/Checkout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/CheckoutSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="578">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -35,13 +57,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spock/Checkout.java" />
+        <option value="$PROJECT_DIR$/src/test/groovy/com/spock/CheckoutSpec.groovy" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1717" />
+    <option name="y" value="179" />
+    <option name="width" value="1809" />
+    <option name="height" value="1218" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -50,12 +76,69 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spockmockingforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spockmockingforjava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="spock" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549109908006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553686589693" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -73,14 +156,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CheckoutSpec.complete checkout with given list of item mock paymentMehod to reutrn false ">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckoutSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckoutSpec.complete checkout with given list of item mock paymentMehod to reutrn false " type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spockmockingforjava.test" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +173,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.spock" />
       <option name="MAIN_CLASS_NAME" value="com.spock.CheckoutSpec" />
+      <option name="METHOD_NAME" value="complete checkout with given list of item mock paymentMehod to reutrn false " />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutSpec.complete checkout with given list of item " type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spockmockingforjava.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spock" />
+      <option name="MAIN_CLASS_NAME" value="com.spock.CheckoutSpec" />
+      <option name="METHOD_NAME" value="complete checkout with given list of item " />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,7 +213,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CheckoutSpec" />
+        <item itemvalue="JUnit.CheckoutSpec.complete checkout with given list of item mock paymentMehod to reutrn false " />
+        <item itemvalue="JUnit.CheckoutSpec.complete checkout with given list of item " />
       </list>
     </recent_temporary>
   </component>
@@ -120,21 +223,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="130d16bb-2fe2-45d6-a7dc-8d17110a477c" name="Default Changelist" comment="" />
-      <created>1549108672798</created>
+      <changelist id="8ba4340d-8dc8-40e4-adb0-b48a3acf36f1" name="Default Changelist" comment="" />
+      <created>1553683396472</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549108672798</updated>
+      <updated>1553683396472</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckoutSpec - 2019.02.02 at 17h 41m 02s.xml">
-      <configuration name="CheckoutSpec" configurationId="JUnit" />
+    <history-entry file="CheckoutSpec_complete_checkout_with_given_list_of_item_ - 2019.03.27 at 16h 37m 50s.xml">
+      <configuration name="CheckoutSpec.complete checkout with given list of item " configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckoutSpec_complete_checkout_with_given_list_of_item_ - 2019.03.27 at 16h 38m 48s.xml">
+      <configuration name="CheckoutSpec.complete checkout with given list of item " configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckoutSpec_complete_checkout_with_given_list_of_item_mock_paymentMehod_to_reutrn_false_ - 2019.03.27 at 16h 56m 14s.xml">
+      <configuration name="CheckoutSpec.complete checkout with given list of item mock paymentMehod to reutrn false " configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="6" />
+    <frame x="1717" y="179" width="1809" height="1218" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -142,16 +251,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19727118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3294964" />
+      <window_info anchor="bottom" id="Build" weight="0.33764368" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294964" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2066787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,17 +278,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/Checkout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="465">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/CheckoutSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="578">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
